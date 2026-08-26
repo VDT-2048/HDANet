@@ -1,7 +1,7 @@
 # Hierarchical Dense Aggregation Network for Few-shot Surface Defect Segmentation Segmentation
 
 ## Code and Dataset
-After the paper is accepted, the code and the dataset will be made public at [here].
+The code and the dataset at https://pan.baidu.com/s/1pdfQW6Ndugg7-rYqbBg3vg?pwd=vva2
 
 ## Citation
 Our previous works are listed as follows:
